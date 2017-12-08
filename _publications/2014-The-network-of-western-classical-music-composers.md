@@ -1,9 +1,9 @@
 ---
 title: "The network of western classical music composers"
 collection: publications
-permalink: /publication/2014-00-00-The-network-of-western-classical-music-composers
+permalink: /publication/2014-The-network-of-western-classical-music-composers
 excerpt: ''
-date: 2014-00-00
+date: 2014-01-01
 venue: 'Complex Networks V'
 paperurl: ''
 citation: ''
