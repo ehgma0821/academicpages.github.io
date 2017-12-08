@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Github University, 2011
+* B.S. in Computer Engineering, University of Illinois at Urbana Champaign, 2011
 * M.S. in Culture Technology, Korea Advanced Institute of Science and Technology (KAIST), 2014
 * Ph.D in Culture Technology, Korea Advanced Institute of Science and Technology (KAIST), 2018 (expected)
 
