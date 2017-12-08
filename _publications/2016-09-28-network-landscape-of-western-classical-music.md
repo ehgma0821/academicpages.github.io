@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-09-28-network-landscape-of-western-classical-music
 excerpt: ''
 date: 2016-09-28
-venue: 'PloS one'
+venue: 'Leonardo'
 paperurl: ''
 citation: ''
 ---

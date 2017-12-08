@@ -17,24 +17,23 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* I.M.LAB (Daejeon, South Korea)
+  * Jan 2014 - Dec 2016
+* Intel Korea (Seoul, South Korea)
+  * Jan 2012 - Jul 2012
+* Data Management Manager (Incheon, South Korea)
+  * Jun 2009 - Aug 2009
   
 Skills
 ======
+{% comment %}
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+{% endcomment %}
 
 Publications
 ======
@@ -56,4 +55,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
