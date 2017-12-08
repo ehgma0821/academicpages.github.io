@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Doheum Park"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Data Scientist: Complex System, Social Network, Culturoinformatics"
   location         : "Daejeon, South Korea"
   employer         :
   googlescholar    : "https://scholar.google.co.kr/citations?user=kdhM1k0AAAAJ&hl=ko&oi=ao"
