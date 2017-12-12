@@ -1,6 +1,6 @@
 ---
 title: "HeartiSense"
-excerpt: "Responsive tools which enhance the experience of CPR education<br/><img src='/images/.jpg'>"
+excerpt: "Responsive tools which enhance the experience of CPR education<br/><img src='/images/heartisense.png'>"
 collection: portfolio
 ---
 

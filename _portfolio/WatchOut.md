@@ -1,6 +1,6 @@
 ---
 title: "Watch Out"
-excerpt: "Android application which informs sexual crimes around a user<br/><img src='/images/imove.jpg'>"
+excerpt: "Android application which informs sexual crimes around a user<br/><img src='/images/watchout.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Development of Data Mining Core Technologies for Real-time Intelligent Information Recommendation in Smart Spaces"
-excerpt: "The API for extracting social experiences on the city spots from social media<br/><img src='/images/.jpg'>"
+excerpt: "The API for extracting social experiences on the city spots from social media<br/><img src='/images/placeness_1.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Development of Social Storyboard Technology for Highly Satisfactory Cultural and Tourist Contents based on Unstructured Value Data Spidering"
-excerpt: "The service for travel recommendation by analyzing texts from social media<br/><img src='/images/.jpg'>"
+excerpt: "The service for travel recommendation by analyzing texts from social media<br/><img src='/images/storyboard.png'>"
 collection: portfolio
 ---
 
