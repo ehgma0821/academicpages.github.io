@@ -22,7 +22,7 @@ Academic experience
 
 Awards and Media
 ======
-* 1st Prize in "the Idea Contest for the Solution of Social Problems."
+* 1st Prize in "the Idea Contest for the Solution of Social Problems." with [link](https://ehgma0821.github.io/portfolio/WatchOut/ "Watch Out")
 * The paper "Topology and Evolution of the Network of Western Classical Composers" was introduced in EPJ Highlight, SpringerOpen blogs network, Asian Scientist Magazine, Science 2.0, Phys.org, EurekAlert!, PsyPost and later in Korean major newspapers.
   
 Work experience
@@ -40,12 +40,12 @@ Work experience
 Skills
 ======
 * Programming language
-  * Python, Java, Matlab, C (proficient)
+  * Python, Java, Matlab, C, HTML, PHP, JavaScript (proficient)
   * C++, LC-3, VHDL, OpenCV, OpenGL, x86 ASM, Visual Basic, GOLOG (good)
 * Operating systems
   * Linux, Windows
 * Languages
-  * Korean (mother tongue), English, Japanese
+  * Korean (native), English (fluent), Japanese (intermediate)
 
 Publications
 ======
