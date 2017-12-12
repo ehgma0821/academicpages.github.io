@@ -15,25 +15,37 @@ Education
 * M.S. in Culture Technology, Korea Advanced Institute of Science and Technology (KAIST), 2014
 * Ph.D in Culture Technology, Korea Advanced Institute of Science and Technology (KAIST), 2018 (expected)
 
+Academic experience
+======
+* 2017 Complex Systems Summer School (Santa Fe, NM, USA)
+  * Jun 2017 - Jul 2017
+
+Awards and Media
+======
+* 1st Prize in "the Idea Contest for the Solution of Social Problems."
+* The paper "Topology and Evolution of the Network of Western Classical Composers" was introduced in EPJ Highlight, SpringerOpen blogs network, Asian Scientist Magazine, Science 2.0, Phys.org, EurekAlert!, PsyPost and later in Korean major newspapers.
+  
 Work experience
 ======
-* I.M.LAB (Daejeon, South Korea)
+* Interactive Media Lab (I.M.LAB) (Daejeon, South Korea)
   * Jan 2014 - Dec 2016
+  * worked as a full-stack web developer and data analyst
 * Intel Korea (Seoul, South Korea)
   * Jan 2012 - Jul 2012
-* Data Management Manager (Incheon, South Korea)
+  * worked as a researcher
+* Incheon National University (Incheon, South Korea)
   * Jun 2009 - Aug 2009
-  
+  * worked as a data management manager
+
 Skills
 ======
-{% comment %}
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-{% endcomment %}
+* Programming language
+  * Python, Java, Matlab, C (proficient)
+  * C++, LC-3, VHDL, OpenCV, OpenGL, x86 ASM, Visual Basic, GOLOG (good)
+* Operating systems
+  * Linux, Windows
+* Languages
+  * Korean (mother tongue), English, Japanese
 
 Publications
 ======
@@ -52,6 +64,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
