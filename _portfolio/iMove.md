@@ -1,6 +1,6 @@
 ---
 title: "iMove"
-excerpt: "Interactive game on the facade of a building<br/><img src='/images/imove.jpg'>"
+excerpt: "Interactive game on the facade of a building<br/><img src='/images/imove.png'>"
 collection: portfolio
 ---
 
